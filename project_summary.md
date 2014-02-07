@@ -1,4 +1,4 @@
-# FASHION/SHOCK
+# FASHIONSHOCK
 A Novel about Wearable Computing
 
 ## Authors
