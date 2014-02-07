@@ -1,4 +1,4 @@
-# Project Title
+# <CODEFREEZE> A Novel
 Insert the name of your project
 
 ## Authors
