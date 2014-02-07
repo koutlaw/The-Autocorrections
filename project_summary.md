@@ -1,5 +1,5 @@
-# CODEFREEZE: A Novel
-Insert the name of your project
+# FASHION/SHOCK
+A Novel about Wearable Computing
 
 ## Authors
 - Insert main author name, surname, github account
