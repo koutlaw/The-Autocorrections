@@ -1,5 +1,5 @@
 # FASHIONSHOCK
-A Novel about Wearable Computing
+A novel about wearable computing
 
 ## Authors
 - Insert main author name, surname, github account
