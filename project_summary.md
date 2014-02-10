@@ -1,5 +1,5 @@
-# FASHIONSHOCK
-An Open Source Novel
+# .: CODEFREEZE :.
+open source novel
 
 ## Authors
 - Insert main author name, surname, github account
