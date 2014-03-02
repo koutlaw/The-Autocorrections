@@ -1,5 +1,5 @@
-# .: CODEFREEZE :.
-open source novel
+# .: AUTOCORRECT :.
+
 
 ## Authors
 - Insert main author name, surname, github account
