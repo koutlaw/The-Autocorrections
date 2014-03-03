@@ -1,4 +1,4 @@
-# //THE AUTOCORRECTIONS//
+# .: The AutoCorrections :.
 
 
 ## Authors
