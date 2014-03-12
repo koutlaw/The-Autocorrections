@@ -1,16 +1,4 @@
 
-
 ![Example Image](../project_images/cover.jpg?raw=true "Example Image")
 
-#!/usr/bin/python
-print "Three in the afternoon , a time of danger in this gerontocratic suburbs of St. X . Alfred in the big blue chair on which he slept, awakened since noon . He had his his nap and there were no local news to 05:00 clock . Two empty hours were bred a sinus infection . He struggled to his feet on the table tennis table , listening in vain for Enid .
-On the eastern side of the table tennis was the workshop that housed Alfred metallurgical laboratory. The workshop was now home to a colony of mute , dust - colored crickets, which, when startled , would like a handful of fall through space marbles , of which distributed some misfires at crazy angles , others with the weight break down their own abundant protoplasm. All too easy to fall into , and cleanup more than Kleenex . Enid and Alfred had much suffering they believed to be extraordinary , oversized - shame - and the crickets was one of them .
-" Saturday! " He agreed .
-
-But the chair? The chair was a monument and a symbol and can not be separated from Alfred . It can only be moved , and in the basement and it is followed Alfred . And so in the house of Lambert Bay, as St. X , as in the country as a whole , life has come to have lived underground. Enid could hear Alfred above , opening and closing drawers. He was furious when they walk their children to see . See the children is the only thing he seemed to care...
-
-Ringing in the house was an alarm clock that no one could hear directly except Alfred and Enid . It was the bell of fear. It was like one of the large cast iron dishes send with an electric door , the school children on the street in fire drills . At this time it is working for so many hours that the Lamberts Bay the message of the " bell " does not belong , but as with any sound, which for so long that it sounds more relax its components learning ( as with any word you stare , until it dissolved into a string of dead letters ) , instead a clapper rapidly collision with a metal resonator , not a pure tone but a granular sequence of percussions with a plaintive overlay of overtones ; ringing for so many days that it only blended into the background , with the exception of a few early morning hours when one or the other of them awoke in a sweat and realized that a bell rang in their minds , as long as they can remember rang for so many months that the sound gave way to a kind of meta - music, the rise and fall was not the beating of compression waves, but much, much slower and removing their consciousness of the sound. Which consciousness was particularly acute when the weather itself was in an anxious mood. Then Enid and Alfred - they open drawer was on her knees in the dining room , put them in the basement with an overview of the catastrophic Table Tennis - every feeling near exploding with fear.
-" Everything you do?"
-
-But Enid spoke again. The audiologist said that he was a little concerned. He frowned next .\n"
 
