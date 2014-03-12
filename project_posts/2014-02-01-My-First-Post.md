@@ -3,7 +3,6 @@ Insert a description to describe your update to document your creative process. 
 ![Example Image](../project_images/cover.jpg?raw=true "Example Image")
 
 #!/usr/bin/python
-# My first python program
 print "Three in the afternoon , a time of danger in this gerontocratic suburbs of St. X . Alfred in the big blue chair on which he slept, awakened since noon . He had his his nap and there were no local news to 05:00 clock . Two empty hours were bred a sinus infection . He struggled to his feet on the table tennis table , listening in vain for Enid .
 On the eastern side of the table tennis was the workshop that housed Alfred metallurgical laboratory. The workshop was now home to a colony of mute , dust - colored crickets, which, when startled , would like a handful of fall through space marbles , of which distributed some misfires at crazy angles , others with the weight break down their own abundant protoplasm. All too easy to fall into , and cleanup more than Kleenex . Enid and Alfred had much suffering they believed to be extraordinary , oversized - shame - and the crickets was one of them .
 " Saturday! " He agreed .
